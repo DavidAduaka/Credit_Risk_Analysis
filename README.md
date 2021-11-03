@@ -37,3 +37,17 @@ Below are the results of each of the machine learning models I created in this c
   - Accuracy: 63.8%
   - High Risk: Precision: 1% Recall: 70%
   - Low Risk: Precision: 100% Recall: 57%
+
+### Balanced Random Forest Classifier
+![image](https://user-images.githubusercontent.com/70069730/139971048-01b9b47f-3b02-4c39-b20e-529104cbd97f.png)
+  - Accuracy: 78.8%
+  - High Risk: Precision: 4% Recall: 67%
+  - Low Risk: Precision: 100% Recall: 91%
+
+### Easy Ensemble Classifier
+![image](https://user-images.githubusercontent.com/70069730/139971123-27c7c659-99bf-4916-8974-650a01107a5f.png)
+  - Accuracy: 92.5%
+  - High Risk: Precision: 7% Recall: 91%
+  - Low Risk: Precision: 100% Recall: 94%
+
+## Summary 
