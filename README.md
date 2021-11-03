@@ -1,6 +1,6 @@
-# Credit_Risk_Analysis by David Aduaka 
+# Credit_Risk_Analysis
 
-## Overview of credit Risk Analysis Challenge 
+## Overview of Challenge 
 In this Challenge, I evaluate credit card risk using the concepts of Supervised machine learning. Using the provided credit card dataset, I;
 
   - Oversample the data using the RandomOverSampler and SMOTE algorithms, and undersample the data using the ClusterCentroids algorithm.
