@@ -19,3 +19,21 @@ Below are the results of each of the machine learning models I created in this c
   - Accuracy: 66.3%
   - High Risk: Precision: 1% Recall: 66%
   - Low Risk: Precision: 100% Recall: 67%
+
+### SMOTE Oversampling
+![image](https://user-images.githubusercontent.com/70069730/139970539-dff82a2e-c98e-4359-bf4d-c937ca044fe4.png)
+  - Accuracy: 62.4%
+  - High Risk: Precision: 1% Recall: 59%
+  - Low Risk: Precision: 100% Recall: 66%
+
+### Undersampling
+![image](https://user-images.githubusercontent.com/70069730/139970615-929f01c0-a62b-4230-8bb6-576d43380ae3.png)
+  - Accuracy: 51.1%
+  - High Risk: Precision: 1% Recall: 59%
+  - Low Risk: Precision: 100% Recall: 44%
+
+### Combination Sampling
+![image](https://user-images.githubusercontent.com/70069730/139970709-c510151a-6699-4621-8a8c-d107ec644938.png)
+  - Accuracy: 63.8%
+  - High Risk: Precision: 1% Recall: 70%
+  - Low Risk: Precision: 100% Recall: 57%
