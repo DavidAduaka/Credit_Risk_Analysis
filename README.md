@@ -51,3 +51,6 @@ Below are the results of each of the machine learning models I created in this c
   - Low Risk: Precision: 100% Recall: 94%
 
 ## Summary 
+The following conclusions can be drawn from looking at the results of the six models.
+
+  - The first four models we created had low accuracy scores. The Balanced Random Forest Model had a better accuracy score (78.8%), and the Easy Ensemble Classifier had the best     at 92.5%.
